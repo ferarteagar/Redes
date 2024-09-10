@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 header {
     background-color: #004080; /* Azul oscuro */
-    color: #fff;
+    color: #376eef;
     padding: 20px;
 }
 
@@ -120,7 +120,7 @@ p{
 }
 
 .carousel-inner img {
-    height: 400px;
+    height: 700px;
     object-fit: cover;
 }
 
